@@ -2,6 +2,7 @@ from twitter import Twitter
 import time
 
 #test mancing heroku
+#mau pancing lagi
 
 tw = Twitter()
 
